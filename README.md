@@ -1,6 +1,6 @@
-# 🤖 Excited to share my latest project — Electronics Store Assistant Chatbot!
+# 🤖 Excited to share my latest project - Electronics Store Assistant Chatbot!
 
-I built a fully functional AI-powered chatbot for an electronics store using Tidio Flow Builder — and deployed it on a live website! 🚀
+I built a fully functional AI-powered chatbot for an electronics store using Tidio Flow Builder - and deployed it on a live website! 🚀
 
 ## The chatbot can:
 📱 Browse & recommend products
