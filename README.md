@@ -4,16 +4,24 @@ I built a fully functional AI-powered chatbot for an electronics store using Tid
 
 ## The chatbot can:
 📱 Browse & recommend products
+
 🔧 Book repair services
+
 📦 Track order status
+
 📍 Share store info & FAQs
+
 🛡️ Provide warranty information
 
 ## Key features implemented:
 ✅ Dynamic conversation flows with Quick Replies
+
 ✅ Product Gallery cards (Smartphones, Laptops, TVs, Accessories)
+
 ✅ Customer data collection using Attributes
+
 ✅ Personalised responses using customer name
+
 ✅ Fallback handling for unrecognised inputs
 
 ## 🔗 Live demo:
